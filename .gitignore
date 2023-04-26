@@ -1,5 +1,11 @@
 # logs:
 *.log
 
-#historys:
+# historys:
 History/
+
+# Ourputs:
+Project Outputs for Connectivity_Plugs/
+
+# myself:
+.gitignore
